@@ -12,7 +12,7 @@
 
 ## Front-End em React para minha aplicação (Em construção);
 
-<a href="https://github.com/RafaelPK5/React-ProductCatalog" target="_blank">Front da App: Catálogo de Produtos</a>
+<a href="https://github.com/RafaelPK5/React-Product-Catalog" target="_blank">Front da App: Catálogo de Produtos</a>
 
 ## API em Java com SpringBoot (Em finalização);
 

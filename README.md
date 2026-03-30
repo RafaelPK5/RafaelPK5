@@ -39,7 +39,6 @@ Workflows de automação para validação de WhatsApp, geração de leads via Ap
 
 ## Sobre mim
 
-- 📍 Mogi das Cruzes, SP
 - 🎓 Análise e Desenvolvimento de Sistemas
 - 💼 Aberto a propostas — CLT, PJ ou freela
 - 🌐 Inglês intermediário

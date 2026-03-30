@@ -1,30 +1,52 @@
-## Apresentação
- 
-- Me chamo Rafael Santana sou da Paraíba mas atualmente moro em São Paulo.
-- Cursando: Análise e Desenvolvimento de Sistemas;
-- Aprendendo: Java com SpringBoot para applicações WEB;
-- Já estudei: JavaScript, Node.js, Desenvolvimento de API, CRUD;
-- Trabalhando em: Projetos pessoais como uma API em SpringBoot e front em React.js, está em construção, Projetos da faculdade como um banco digital para meu projeto interdisciplinar;
+# Rafael Santana
 
-  Atualmente estou em busca de uma vaga de estágio ou até como Junior, acredito em minha capacidade e aquilo que eu não souber fazer tenho certeza que correrei atrás de aprender para meu desenvolvimento e também crescimento da empresa que me der uma oportunidade.
+Desenvolvedor com foco em **automação, integrações e sistemas web**. Trabalho no cruzamento entre tecnologia e operação real — construindo robôs, pipelines de dados e aplicações que resolvem problemas de negócio de verdade.
 
+Atualmente na **Shilinkert Advogados**, onde sou o único desenvolvedor responsável por sistemas internos, automações jurídicas e integrações com APIs externas.
 
-[![My Skills](https://skillicons.dev/icons?i=java,mysql,nodejs,javascript,github,&theme=light)](https://skillicons.dev)
+---
 
-# Podem me contatar por:
+## Stack principal
 
-<a href="https://www.linkedin.com/in/rafael-santana-669a601a1/" target="_blank" ><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" width="45" height="45"></a>
-<!--
-**RafaelPK5/RafaelPK5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Automação & Backend**
+- Python · n8n · Node.js
+- PostgreSQL · MySQL · Firebird
+- APIs REST · Webhooks · OAuth2
 
-Here are some ideas to get you started:
+**Frontend**
+- React · Next.js · TypeScript
+- Tailwind CSS · JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Infra & Ferramentas**
+- Docker · Nginx
+- Git · SFTP
+
+---
+
+## Projetos em destaque
+
+### 🤖 EPROC Robot
+Robô em Python + Selenium que automatiza consultas de processos jurídicos nos tribunais do RS e SC. Lida com autenticação via certificado digital (Loy Trust), navegação em ambientes protegidos e extração estruturada de dados processuais.
+
+### 💬 Chatwoot Frontend Dashboard
+Dashboard moderno integrado à API do Chatwoot. Autenticação por role (admin/agente), visualização de conversas em tempo real e gerenciamento de contatos. Stack: Next.js 15, React 19, TypeScript, Zustand, Tailwind.
+→ [Ver repositório](https://github.com/RafaelPK5/Front-End-Chatwoot)
+
+### ⚙️ Automações n8n
+Workflows de automação para validação de WhatsApp, geração de leads via Apify e integrações com sistemas de cobrança. Desenvolvidos e revendidos como solução para clientes.
+
+---
+
+## Sobre mim
+
+- 📍 Mogi das Cruzes, SP
+- 🎓 Análise e Desenvolvimento de Sistemas
+- 💼 Aberto a propostas — CLT, PJ ou freela
+- 🌐 Inglês intermediário
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--fernando--santana-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rafael-fernando-santana/)
+[![GitHub](https://img.shields.io/badge/GitHub-RafaelPK5-181717?style=flat&logo=github)](https://github.com/RafaelPK5)
